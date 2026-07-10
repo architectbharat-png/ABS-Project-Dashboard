@@ -12,6 +12,7 @@ id,name,status,totalFee,feeRecd,realisticFee,timeline,archived,archivedOn
 11,"Veer Hanuman","Construction",42.5,8,34.5,"2 years to 3 years",0,
 12,"Bima Shanti chsl - Shanti Mahal","Approvals",48.5,13.5,35,"4 years and beyond",0,
 13,"Panchvati Apartment","Pre-Designing",130,27.75,102.25,"3 years to 4 years",0,
+14,"Ratnadeep chsl","DA",24,1.5,22.5,"3 years to 4 years",0,
 15,"Ashok Bharati Planning","Construction",15,9,6,"1 year to 2 years",0,
 16,"Shatrunjay Tirupati chsl","Developer selection",185.55,1.55,374,"3 years to 4 years",0,
 17,"Misquitta B co-op hsg.socy.ltd.","Developer selection",60.45,0.7,144.75,"3 years to 4 years",0,
@@ -29,4 +30,3 @@ id,name,status,totalFee,feeRecd,realisticFee,timeline,archived,archivedOn
 30,"Hare Krishna chsl","Pre-Designing",25,0,25,"2 years to 3 years",0,
 31,"Nestle B chsl","Developer Selection",24,0,50,"2 years to 3 years",0,
 22,"Su Prabhat chsl planning","Pre-Designing",15,0,15,"4 years and beyond",1,"2026-07-10"
-14,"Ratnadeep chsl","DA",24,1.5,22.5,"3 years to 4 years",1,"2026-07-10"
