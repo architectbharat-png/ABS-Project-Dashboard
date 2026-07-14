@@ -29,4 +29,4 @@ id,name,status,totalFee,feeRecd,realisticFee,timeline,archived,archivedOn
 14,"Ratnadeep chsl","DA",24,1.5,22.5,"3 years to 4 years",0,
 12,"Bima Shanti chsl - Shanti Mahal","Approvals",48.5,13.5,35,"4 years and beyond",0,
 31,"Nestel-B chsl","Developer Selection",24,0,50,"2 years to 3 years",0,
-22,"Su Prabhat chsl planning","Pre-Designing",15,0,15,"4 years and beyond",0,
+22,"Su Prabhat chsl planning","Pre-Designing",15,0,15,"4 years and beyond",1,"2026-07-14"
