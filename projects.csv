@@ -22,7 +22,7 @@ id,name,status,totalFee,feeRecd,realisticFee,constructionMonths,archived,archive
 24,"Amazon chsl","Tendering",250.5,0.5,650,42,0,
 25,"Shree Ganesh Krupa chsl & Dahisar Purnima chsl","Developer Selection",38,1.32,75,36,0,
 26,"Rosario chsl","Feasibility",18.93,0.15,300,36,0,
-27,"Shekhar Nagar chsl","DA",10.35,2.85,7.5,36,0,
+27,"Shekhar Nagar chsl","DA",10.35,2.85,7.5,0,0,
 28,"Prabhat Apartment - Vile Parle","Developer Selection",25,0.25,45,24,0,
 29,"Parshwa Giriraj chsl","Developer Selection",34,0.5,75,36,0,
 30,"Hare Krishna chsl","Plan approval by socy",25,0,25,30,0,
