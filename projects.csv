@@ -1,8 +1,8 @@
 id,name,status,totalFee,feeRecd,realisticFee,constructionMonths,archived,archivedOn
-1,"Raghukul","Construction",121.58,86.65,35.2,36,0,
+1,"Raghukul","Construction Phase",121.58,86.65,35.2,36,0,
 2,"Jeevan Nagar","Developer Selection",53.59,50.59,403,36,0,
 3,"Market","Completed",25.27,22.74,2.53,0,0,
-4,"D.N. Nagar Sanghmitra","Construction",65.8,30.88,34.92,36,0,
+4,"D.N. Nagar Sanghmitra","Construction Phase",65.8,30.88,34.92,36,0,
 5,"Prayas","Concessions Approval",45,10,35,36,0,
 6,"Mahalakshmi Staff quarters - MSQ","Draft Planning",58,0,83,36,0,
 7,"Yogi Prerna chsl","Concessions Approval",110.8,24.1,86.7,36,0,
